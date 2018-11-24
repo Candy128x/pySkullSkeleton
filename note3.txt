@@ -1,0 +1,19 @@
+#yyyyMMdd
+=> ProjectTitle
+~ desc
+
+
+=> TechWeUsed:
+- frontend: 
+html, css, javascript, bootstrap,
+- backend: 
+java, python, php, nodeJS, visual basic
+- framework: 
+yii, laravel, spring, angulerJS, React, zend
+- DataBase:
+sql, firebase, mongodb, redis..
+
+
+-----ref-----
+YT: ÐëvDeveloper
+https://youtu.be/G8Zjeolmn2s
