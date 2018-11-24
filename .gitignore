@@ -1,11 +1,6 @@
-#ignore file Pwd3.txt
-23.txt
-
-#ignore folder venv
-venv/*
-*/config/*
-config.*
-*/congig.*
-
-#ignore all *.ios file
+#hide pwd file
 *.pwd
+
+#hide bash file
+*.bash
+
