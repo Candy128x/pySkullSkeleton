@@ -17,3 +17,6 @@ sql, firebase, mongodb, redis..
 -----ref-----
 YT: ÐëvDeveloper
 https://youtu.be/G8Zjeolmn2s
+
+- pullMyCode | [cmd]
+$ git pull https://github.com/Candy128x/pySkullSkeleton.git home
