@@ -1,6 +1,3 @@
-#hide pwd file
-*.pwd
-
-#hide bash file
+# hide bash file
 #*.bash
 
